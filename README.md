@@ -1,4 +1,4 @@
-# Poker Arena Frontend
+# Poker Arena Visualizer
 
 This is a React frontend for the Poker Arena application. It allows users to view and interact with poker tables.
 

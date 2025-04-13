@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.App-main {
+  flex: 1;
+  background-color: var(--light-bg);
+  padding: 20px 0;
+}
+
+.App-footer {
+  background-color: var(--primary-color);
+  color: var(--light-text);
+  text-align: center;
+  padding: 1rem;
+  margin-top: auto;
+  border-top: 3px solid var(--secondary-color);
+}
